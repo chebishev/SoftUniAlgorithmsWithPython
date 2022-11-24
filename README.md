@@ -1,4 +1,4 @@
-All the excersizes from my education in SoftUni.bg https://softuni.bg/
+All the excersizes from my education in SoftUni.bg https://softuni.bg/ - Algorithms with Python 2022
 
 SoftUni is one of the largest and most respected educational institutions, providing training and career support in the fields of software engineering, digital marketing and design.
 
