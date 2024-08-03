@@ -6,3 +6,11 @@ for _ in range(number - 1):
     fibonacci_0, fibonacci_1 = fibonacci_1, fibonacci_0 + fibonacci_1
 
 print(fibonacci_1)
+
+# test inputs:
+
+# 5
+
+# 10
+
+# 21
